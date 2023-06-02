@@ -1,0 +1,7 @@
+name: DeathServer
+version: 1.0.0
+main: org.example.DeathServer
+description: A Plugin to wipe server world on death
+author: Craig Doyle
+website: https://papermc.io
+api-version: 1.19
